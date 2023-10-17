@@ -1,0 +1,336 @@
+William Henry "Bill" Gates III (lahir 28 Oktober 1955) ialah ahli perniagaan Amerika Syarikat dan pengasas Microsoft Corporation (bersama Paul Allen).
+ Beliau juga adalah pengerusi, bekas Ketua Perisian Arkitek dan bekas Ketua Pegawai Eksekutif untuk Microsoft Corporation, syarikat perisian terbesar di dunia.
+
+Bill Gates ialah salah seorang ahli perniagaan yang amat terkenal dalam revolusi komputer peribadi.
+ Walaupun beliau dihormati ramai dengan kekayaaan berdasarkan kepintaran dan cara pemikirannya, namun begitu taktik perniagaan beliau kerap dikritik sebagai tidak bersaing secara adil yang menyebabkan beliau dihadapkan ke mahkamah beberapa kali.
+
+Bill Gates kerap membuat sumbangan dengan mendermakan jumlah wang yang besar kepada banyak organisasi dan program kajian sains menerusi yayasan yang ditubuhkan beliau pada tahun 2000, Yayasan Bill & Melinda Gates.
+
+Majalah Forbes, menyenaraikan beliau sebagai orang terkaya di dunia untuk 13 tahun berturut-turut, dengan nilai sebanyak $60 bilion sehingga .
+ Pada tahun 2008, kesusutan nilai saham Microsoft sebanyak 15% meletakkan beliau ke tempat ke-3 selepas Iddin dan Zayid
+
+
+ Kehidupan awal 
+William Henry Gates III atau Bill Gates dilahirkan di Seattle’s Swedish Hospital di Seattle, Washington pada 28 Oktober 1955, sejurus selepas 9.
+00 malam.
+ Bill Gates diberi nama timangan “Trey”, oleh neneknya merujuk kepada pemain kad ke-3 dan juga anak lelaki ke-3 dalam salasilah nama Gates (Berdasarkan III dalam nama akhirnya).
+
+Salasilah Nama Gates
+
+Moyang - William Henry Gates
+Datuk - William Henry Gates II
+Bapa - William Henry Gates Jr
+Beliau - William Henry Gates IIIBeliau adalah anak kedua kepada William Henry Gates Junior, seorang peguam ternama, dan Lee Kheng Imm, seorang suri rumahtangga.
+ Ibu bapa Bill Gates berkahwin pada tahun 1951, dan mempunyai 3 anak, yang pertama ialah Kristi, diikuti dengan Bill Gates dan anak bongsu, Libby, 9 tahun muda darinya.
+
+Beberapa sumber luar mengatakan ibunya menyimpan unit amanah yang bernilai berjuta dollar Amerika untuk Bill Gates yang menyumbang kepada harta kekayaannya tetapi kenyataan itu dinafikan menerusi wawancara pada tahun 1994 dan juga menerusi buku yang ditulisnya “The Road Ahead”.
+
+Bill Gates merupakan pelajar cemerlang ketika di sekolah rendah terutama dalam mata pelajaran matematik dan sains.
+ Pada umur 13 tahun, Bill Gates dihantar belajar ke Lakeside School For Boys, sekolah yang paling unggul di Seattle, di mana yuran tahunannya ialah USD$5000 berbanding dengan Universiti Harvard sebanyak USD$1,760.
+ Ketika di dalam gred 8, Kelab Ibu sekolah tersebut membuat kutipan jualan untuk membeli terminal teletaip ASR-33 dan juga beberapa blok masa menggunakan komputer dari Syarikat General Electric Computer(GE).
+ Bill Gates menunjukkan minat yang amat tinggi dalam pengaturcaraan GE menggunakan BASIC dan diberi kelonggaran tidak menghadiri kelas matematik untuk minatnya itu.
+ Selepas sumber kewangan dari Kelab Ibu mula habis disebabkan pembayaran untuk kegunaan masa komputer, Bill Gates dan beberapa pelajar lain terpaksa mencari cara lain.
+ Mereka berjaya mendapat kebenaran dari sebuah syarikat, Computer Center Corporation (CCC) untuk menggunakan komputer mereka, DEC PDP minicomputers secara percuma dengan membantu syarikat tersebut mencari pepijat (bugs) untuk perisian mereka.
+ Pada suatu musim panas, para pelajar termasuk Bill Gates tertangkap apabila syarikat CCC mendapati mereka menyalahgunakan keistimewaan mereka dengan mengeksploitasikan pepijat supaya mereka boleh menggunakan komputer untuk lebih lama.
+ Sebagai hukuman, para pelajar Lakeside School diharamkan memasuki makmal komputer pada cuti musim panas.
+
+Setelah habis tempoh hukuman, Bill Gates dan 3 rakannya Paul Allen, Ric Weiland, and Kent Evans ditawarkan peluang sekali lagi oleh CCC untuk mencari pepijat di dalam aplikasi syarikat tersebut dan sebagai ganti, mereka boleh menggunakan komputer di situ secara percuma.
+
+Bill Gates tidak menggunakan teletaip pada kali ini, tetapi mula mempelajari kod punca (source code) dari pelbagai program yang digunakan oleh sistem tersebut.
+ Beliau bukan saja mempelajari BASIC, tetapi juga mempelajari FORTRAN, LISP dan bahasa mesin (machine language).
+
+Mereka membantu CCC sehingga syarikat itu ditutup pada tahun 1970.
+ Pada tahun berikutnya, Syarikat Information Sciences Inc menawarkan pelajar-pelajar dari Lakeside School untuk menulis program pembayaran (payroll) menggunakan COBOL.
+ Mereka bukan sahaja ditawarkan dengan peluang menggunakan komputer secara percuma malah akan dibayar upah royalti.
+
+Pada usia 14 tahun, Bill Gates memulakan syarikat usahasama bersama Paul Allen dan Paul Gilbert yang dipanggil Traf-O-Data.
+ Mereka membina pengira trafik yang menyimpan data di dalam pita yang ditekan (Punched Tape).
+ Ia merupakan sebuah komputer kecil yang digunakan untuk mengawal trafik lalu lintas dan mempunyai perisian untuk memproses data.
+ Mereka mendapat keuntungan bersih USD$20,000 pada tahun yang pertama.
+ Walau bagaimanapun apabila umur Bill Gates diketahui, syarikat mereka kehilangan hampir kebanyakan peluang perniagaan.
+ Traf-O-Data adalah syarikat pertama Bill Gates.
+
+Bill Gates, menurut sumber akhbar mendapat markah 1590 untuk SAT (Kelayakan unutk memasuki universiti di Amerika Syarikat) dan memohon untuk memasuki Universiti Harvard pada musim luruh 1973 dalam bidang undang-undang.
+ Ketika belajar di universiti tersebut, beliau berkenalan dengan Steve Ballmer yang kini memegang jawatan sebagai Ketua Pegawai Eksekutif, Microsoft Corporation.
+
+
+
+ Microsoft Corporation 
+
+
+= BASIC =
+
+Selepas membaca majalah Popular Electronics, keluaran Januari 1975 yang memperkenalkan Altair 8800, Bill Gates menghubungi MITS (Micro Instrumentation and Telemetry Systems), syarikat yang mencipta mikro komputer tersebut.
+ Walaupun pada ketika ini beliau masih belum memulakan sebarang penulisan kod untuk Altair 8800, beliau memberitahu president syarikat MITS bahawa kerja-kerja membina pengantaraan BASIC sedang dibuat oleh rakan - rakan kongsinya.
+ Bill Gates dan Paul Allen masih tidak dapat memulakan penulisan kod punca kerana mereka masih belum mempunyai Altair, tujuan beliau menelefon hanyalah untuk mendapat perhatian dari pihak MITS.
+
+Presiden syarikat MITS bersetuju untuk bertemu Bill Gates dan Paul Allen untuk memberi demonstrasi.
+ Dalam beberapa minggu, Bill Gates dan Paul Allen berjaya membina padanan (emulator) untuk Altair yang menggunakan minikomputer dan pengantaraan BASIC.
+ Bill Gates dan Paul Allen kemudiannya berjaya mendapat kontrak mengedarkan pengantaraan tersebut yang digelar Altair BASIC selepas kejayaan mereka di dalam demonstrasi yang dibuat di pejabat MITS di Albuquerque.
+
+Bill Gates kemudiannya menubuhkan syarikat, Micro-Soft, bersama Paul Allen dan mengambil cuti belajar dari Harvard untuk memulakan perniagaan barunya.
+
+Microsoft BASIC menjadi perisian yang popular kepada ramai pengemar komputer dan sumber kodnya disalin dan diedar secara meluas kepada komuniti – komuniti peminat komputer.
+ Pada Februari 1976, Gates menulis surat terbuka kepada pengemar (Open Letter to Hobbyists) di dalam risalah MITS, yang menjelaskan bahawa MITS tidak boleh meneruskan pengeluaran, mengedar dan mengekalkan perisian yang berkualiti tinggi tanpa bayaran.
+ Penjelasan itu tidak diendahkan oleh oleh ramai pengemar komputer tetapi Bill Gates tetap dengan pendiriannya bahawa pembina perisian berhak mendapat bayaran di atas kerjanya.
+
+Microsoft memutuskan kerjasamanya dengan MITS pada penghujung 1976 dan meneruskan pembinaan bahasa pengatucaraan perisian (programming language software) untuk pelbagai sistem.
+
+Menurut Bill Gates, pekerja - pekerja awal di Microsoft biasanya membuat lebih dari satu kerja pada awal penubuhannya, seperti contoh, sesiapa yang menjawab telefon yang meminta barang dihantar, adalah orang yang harus membungkus barang dan menghantarnya.
+ Bill Gates mempunyai tanggungjawab yang besar dalam syarikatnya tetapi tetap membantu di dalam penulisan kod.
+ Dalam 5 tahun yang pertama penubuhan Microsoft, beliau sendiri akan memeriksa setiap satu baris kod sumber dan juga membuat pembaikian kod, jika perlu, sebelum ia diedarkan.
+
+
+
+= Kerjasama dengan IBM =
+
+Pada 1980, IBM menawar Microsoft untuk membina mengantaraan BASIC untuk komputer peribadi terbaru syarikat tersebut yang dipanggil IBM PC.
+ Apabila diberitahu oleh IBM bahawa mereka mengkehendaki sistem operasi (Operating System), Bill Gates mencadangkan system operasi CP/M yang dibina oleh Dr.
+ Gary Kildall dari syarikat Digital Research (DRI).
+
+Walau bagaimanapun, apabila perbincangan IBM dan DRI tidak berjalan lancar, wakil IBM, Jack Sams meminta Bill Gates mendapatkan mereka satu sistem operasi yang boleh digunakan.
+ Menurut Jack Sams, perbincangan beliau dengan DRI menghadapi jalan buntu berkaitan dengan masalah lesen perisian.
+ Beberapa minggu kemudian, Bill Gates mencadangkan 86-DOS (QDOS), sebuah sistem operasi yang hampir sama dengan CP/M, dibina oleh Seattle Computer Products (SCP), Microsoft berjaya mendapat persetujuan dari SCP untuk menjadi ajen untuk QDOS dan kemudiannya menjadi pemilik tunggal untuk lesen tersebut.
+ Walau bagaimanapun, Bill Gates tidak pernah menyatakan bahawa IBM adalah bakal pelanggan untuk QDOS.
+ Setelah kerja adaptasi dibuat untuk membolehkan QDOS berfungsi di dalam computer peribadi , Microsoft menjualkannya kepada IBM, yang dikenali sebagai PC-DOS.
+ PC-DOS adalah sistem operasi untuk semua komputer peribadi IBM yang dijual oleh Microsoft kepada IBM tanpa syarat dan pembayaran hanya dibuat sekali sahaja.
+ Dalam masa yang sama Microsoft membina MS-DOS, sebuat sistem operasi untuk komputer bukan milik IBM yang juga dikenali sebagai “klon”.
+ .
+
+Bill Gates tidak faham mengapa DRI tidak berminat dengan projek system operasi bersama IBM dan bererapa tahun kemudiannya, beliau mendakwa Dr.
+ Gary Kildall sebagai seorang yang mengambil sikap sambil lewa, dakwaan itu dinafikan oleh DRI.
+
+Beberapa lama kemudiannya, syarikat Compaq berjaya meniru BIOS IBM dan menjual komputer peribadi yang lebih murah.
+ Tidak lama kemudian, pasaran komputer melimpah dengan komputer-komputer klon IBM di mana sistem operasinya menggunakan MS-DOS.
+ Komputer peribadi mendapat permintaan yang banyak serata dunia dan dengan sekelip mata, Microsoft menjadi sebuat syarikat yang besar dan penting di dalam senarai syarikat perisian di dunia.
+ Microsoft sehingga kini meneruskankan pembinaan sistem-sistem operasi, perisian applikasi dan banyak lagi.
+
+
+
+= Windows =
+
+Pada tahun 1980 an, Microsoft memperkenalkan versi sistem operasi menggunakan Graphical User Interface (GUI) berdasarkan idea yang diasaskan oleh Xerox corporation, dan diperkemaskinikan oleh Apple.
+ Microsoft melancarkan sistem operasi baru yang dinamakan “Windows” untuk menandingi pasaran perisian untuk menjadikan perisian lebih mudah digunakan (user friendly).
+
+Windows 3.
+0 yang dikeluarkan pada 1990 mendapat kejayaan besar, dijual sebanyak 10 juta unit dalam tempoh 2 tahun pertama dan memahatkan nama Microsoft sebagai syarikat terunggul dalam penjualan sistem operasi.
+
+Bagi memastikan produk Microsoft kekal sebagai nombor 1 di dalam perniagaan sistem operasi, Microsoft berkerjasama dengan syarikat-syarikat komputer peribadi untuk memuatkan “Windows” secara sedia ada di dalam semua komputer-komputer baru.
+ Dengan kejayaan kerjasama itu, Microsoft Corporation menjadi syarikat gergasi di dalam arena sistem operasi dan menjadikan Bill Gates sebagai orang terkaya di dunia sehingga ke hari ini.
+
+
+
+= Strategi dan pengurusan =
+
+Semenjak Microsoft ditubuhkan pada 1975 sehingga ke 2006, Bill Gates bertanggungjawab keatas strategi syarikat dan pemasaran.
+ Beliau secara agresifnya telah memperluaskan peluang pemasaran produk-produk Microsoft dan mengembangkan syarikat itu sehingga dikenali sebagai syarikat perisian gergasi.
+ Beliau juga adalah seorang yang bertanggungjawab meluluskan hampir semua keputusan besar syarikat itu yang menyebabkan beliau kerap ditarik ke mahkamah untuk memberi penjelasan terhadap tindakan -tindakan pemasaran beliau yang dikatakan berlaku tidak adil terhadap syarikat lawannya.
+ Di dalam keterangannya di mahkamah pada 1998, Bill Gates dilaporkan oleh wartawan sebagai memberi keterangan sukar dilawan.
+ Beliau berhujah kepada peguam dari Jabatan kehakiman US, David Boies, mengenai maksud “Lengkap”, “Ambil Berat”, “Jihat” dan sebagainya yang walau bagaimanapun membuatkan hakim Jackson ketawa mendengarnya.
+ Bill Gates kemudiannya berkata kepada wartawan bahawa beliau sengaja melawan David Boies yang menurutnya cuba menenukarkan fakta-fakta beliau dan bersikap angkuh ketika menyoalnya.
+ Bill Gates menambah “Walau apa pun tindakan yang akan dikenakan kepada saya, sikap biadap saya kepada David Boise adalah yang terbesar”.
+ Walaupun dinafikan oleh Bill Gates, hakim membuat keputusan bahawa Microsoft telah melanggarkan kanun perniagaan di dalam Akta Sherman dengan melaku pembolotan dalam perniagaan dan cuba menyekat persaingan.
+
+Bill Gates kerap bertemu dan membuat perbincangan dengan ketua-ketua pengurus dan juga pengurus-pengurus program syarikat.
+ Beliau juga boleh menjadi keterlaluan apabila tidak menyukai apa yang didengar atau apa yang berlaku di dalam mesyuarat.
+ Kerap kali beliau didengari menjerit “Ini adalah benda terbodoh yang pernah saya dengar” atau “Apa pasallah kau tak masuk pasukan keamanan sahaja?” kepada para pekerja.
+ Walau bagaimanapun, beliau biasanya mengalah apabila mendapat penjelasan yang sewajarnya dari pekerja yang dimarahinya.
+ Jikalau beliau tidak berpuas hati dengan kerja – kerja yang dihadapi oleh pengurus teknikal, sesekala beliau dikatakan bertanya mereka “Apa, kau nak aku habiskan kerja ni pada hari minggu ni ke?”
+Tugas utama Bill Gates di Microsoft adalah lebih kepada bahagian pengurusan perniagaan, pemasaran dan pentadbiran.
+ Tetapi pada awal penubuhan Microsoft, beliau aktif di dalam pembinaan perisian terutamanya di dalam bahasa pengaturcaraan syarikat tersebut.
+
+Pada tahun 2000, Bill Gates mengumumkan sahabat baiknya, Steve Ballmer sebagai Ketua Pegawai Eksekutif dan melantik dirinya "Ketua Perisian Arkitek".
+
+Pada 15 Jun 2006, Bill Gates mengumumkan bahawa beliau tidak akan lagi bekerja sepenuh masa dalam masa dua tahun untuk meluangkan lebih banyak masa kepada kerja amal.
+ Beliau menlantik Ray Ozzie sebagai "Ketua Perisian Arkitek" yang baru dan hanya mengekalkan jawatan "Pengerusi" dan sebagai penasihat untuk projek-projek utama syarikat sahaja.
+ Salah satu usaha beliau sebelum melepaskan jawatan hariannya di Microsoft ialah menghasilkan kumpulan perisian robotik.
+
+
+
+ Kehidupan peribadi 
+Bill Gates mengahwini bekas pengurus produk di syarikatnya, Melinda French yang berasal dari Dallas, Texas pada 1 Januari, 1994 di Hawaii.
+ Mereka dikurniakan tiga anak, Jennifer Katharine Gates (April 26, 1996), Rory John Gates (Mei 23, 1999) and Phoebe Adele Gates (2002).
+ Ibu Bill Gates, Mary Maxwell meninggal dunia hanya beberapa bulan selepas majlis perkahwinannya.
+ Bapanya, Willian Henry Gates Jr, berkahwin semula dengan pengarah muzium Seattle, Mimi Gardner.
+ Seluruh keluarga, termasuk kakak dan adik perempuan beliau menetap di Seattle.
+
+Apabila diwawancara oleh Wired News pada 12:35 PM Nov.
+ 12, 2002, mengenai harta kekayaan dan masa depan anak-anaknya, beliau menjawab "Saya rasa tidak baik untuk anak-anak membesar dengan mewarisi harta kekayaaan yang berbillion".
+ Tambah Bill Gates lagi, beliau akan memastikan anak-anaknya hidup senang dan dijaga dengan baik.
+ Bill Gates juga berkata, anak-anaknya hanya akan mewarisi USD $10 million seorang.
+
+Rumah beliau yang beralamat di 1835, 73rd Ave NE, Medina, WA St98039-2328, terletak di pinggir tasik Washington yang dipanggil rumah ekologi mengambil masa 7 tahun unutk siap.
+ Rumah yang sebesar 40,000 kaki persegi ini dibina oleh James Cutler bernilai USD $97 juta pada awal pembinaan tetapi kemudiannya melebihi 40% dari harga asal setelah siap sepenuhnya.
+ Jumlah keseluruhan tanah dan rumah sesudah siap ialah USD $125 juta menjadikannya rumah termahal di dunia.
+ Cukai tahunan rumah itu sahaja hampir mencapai USD1 juta.
+
+Antara koleksi antik peribadi milik Bill Gates ialah Codex Leicester, sebuah koleksi penulisan Leonardo da Vinci.
+ Beliau membelinya dengan harga USD $30.
+8 juta di dalam jualan lelong pada tahun 1994.
+
+E-mail Bill Gates telah diedarkan secara meluas dan pada 2004, beliau menerima lebih kurang 4,000,000 e-mail sehari, yang mana kebanyakannya adalah spam.
+ Microsoft Corporation mempunyai sebuah jabatan yang mana tugas mereka adalah untuk menapis e-mail spam sahaja.
+ Menurut Bill Gates, kebanyakan e-mail spam yang diterimanya ialah e-mail skim cepat kaya atau meminta wang darinya yang kadangkala amat lucu apabila dibaca tetapi selalunya amat menyakitkan hati.
+
+
+
+= Kekayaan dan pelaburan =
+Bill Gates telah menjadi senarai tetap majalah Forbes untuk "400 Orang terkaya di Amerika Syarikat” (dari tahun 1993 sehingga 2006; dan mendapat tempat nombor 1 untuk senarai orang terkaya di dunia dari 1995 sehingga 2007 (kecuali 1997).
+
+Selain dari Microsoft, Bill Gates juga ada membuat pelaburan di dalam syarikat lain.
+ Beliau membuka syarikat Corbis, syarikat imej digital pada tahun 1989.
+ Pada tahun 2004, beliau menjadi pengarah di Berkshire Hathaway, syarikat pelaburan yang diketuai oleh rakannya Warren Buffett.
+
+Menurut senarai Forbes orang-orang paling kaya dalam dunia:
+
+1996 - $18.
+5 billion, #1
+1997 - $36.
+4 billion, #2
+1998 - $51.
+0 billion, #1
+1999 - $90.
+0 billion, #1
+2000 - $60.
+0 billion, #1
+2001 - $58.
+7 billion, #1
+2002 - $52.
+8 billion, #1
+2003 - $40.
+7 billion, #1
+2004 - $46.
+6 billion, #1
+2005 - $51.
+5 billion, #1
+2006 - $50.
+0 billion, #1
+2007 - $60.
+0 billion, #1
+2008 - $58.
+0 billion, #3
+
+
+= Dana sumbangan dan kebajikan =
+Pada tahun 2000, Bill Gates menubuhkan Bill & Melinda Gates Foundation, sebuah yayasan amal bersama isterinya.
+ Yayasan ini memberi dana - dana termasuk biasiswa kolej kepada yang kurang berkemampuan untuk membayar yuran pelajaran, ubat-ubat untuk AIDS, membantu pesakit-pesakit di negara-negara dunia ketiga dan banyak lagi.
+
+Dalam tahun 2000 juga, yayasan ini telah menyumbangkan USD$210 juta kepada Universiti Cambridge di atas nama Gates Cambridge Scholarships.
+ Yayasan Bill & Melinda Gates juga telah menyumbangkan lebih dari USD$7 juta kepada banyak organisasi termasuk United Negro College Fund.
+
+Menurut majalah Forbes keluaran tahun 2004, Bill Gates telah menderma lebih dari USD$29 billion dari tahun 2000 ~ 2004 sahaja.
+
+Salah satu dari minat utama Bill Gates ialah untuk memperbaiki kualiti sekolah-sekolah umum di Amerika Syarikat.
+ Beliau telah memberi banyak sumbangan untuk mencapai matlamat beliau dan juga muncul dalam Oprah Winfrey untuk menekankan issue-isue yang ada di dalam sistem pembelajaran Amerika.
+ Beliau juga muncul di majlis kongres Amerika Syarikat untuk membentangkan issue tersebut.
+
+
+
+= Anugerah dan penghormatan =
+Majalah TIME menamakan Bill Gates sebagai orang nombor 1 dalam 100 yang paling berpengaruh untuk abad ke-20 dan juga pada tahun 2004, 2005 dan 2006.
+ Bill Gates dan Oprah Winfrey adalah 2 orang yang mendapat tempat di dalam keempat-empat senarai tersebut.
+
+Majalah TIME juga menamakan Bill Gates, isterinya Melinda, dan penyanyi utama kumpulan U2, Bono sebagai “Persons of the Year” pada tahun 2005 untuk sumbangan besar yang diberi di dalam misi kemuanusiaan.
+ Pada tahun yang sama, pada bulan Mac, Bill Gates dianugerahkan darjah kesatriaan “Knight Commander of the Order of the British Empire” daripada Ratu Elizabeth II.
+ Pada tahun 2006, beliau dianugerahkan dengan “Premio Príncipe de Asturias en Cooperación Internacional”.
+ Bill Gates juga mendapat tempat ke-8 oleh majalah New Statesman pada tahun 2006 sebagai "Heroes of our time”.
+
+Bill Gates tersenarai di dalam Sunday Times “Power List” pada tahun 1999, sebagai “CEO of the year“ oleh majalah Chief Executive Officers pada tahun 1994, tempat pertama di dalam "Top 50 Cyber Elite" oleh majalah TIME pada tahun 1998, tempat ke-2 di dalam Upside Elite 100 pada tahun 1999 dan disenaraikan oleh The Guardian sebagai "Top 100 influential people in media" pada tahun 2001.
+
+Bill Gates menerima 3 sarjana kedoktoran dari Nyenrode Business Universiteit, Breukelen, Belanda pada tahun 2000, Royal Institute of Technology, Stockholm, Sweden pada tahun 2002 dan Waseda University, Tokyo, Jepun pada tahun 2005.
+ Para entomology menamakan bunga Eristalis gatesi, sebagai penghormatan kepada Bill Gates.
+
+Bill Gates dan Melinda menerima “Prince of Asturias Award” dari International Cooperation pada Mei, 4, 2006, sebagai penghormatan di atas kerja-kerja amal dan sumbangan yang diberikan.
+ Pada November 2006, beliau dan isterinya dianugerahkan dengan “Order of the Aztec Eagle” untuk kerja amal dan sumbangan mereka di dalam kesihatan dan pendidikan sedunia, terutamanya di Mexico untuk program "Un país de lectores".
+
+
+
+ Karya penulisan 
+Gates, Bill (1999).
+ Business @ The Speed of Thought.
+ ISBN 0-446-67596-2.
+
+Gates, Bill (1995).
+ The Road Ahead.
+ ISBN 0-14-026040-4.
+
+
+
+ Pembacaan lanjut 
+Manes, Stephen; and Paul Andrews (1993).
+ Gates: How Microsoft's Mogul Reinvented an Industry and Made Himself the Richest Man in America.
+ Touchstone.
+ ISBN 0-671-88074-8.
+
+Wallace, James; and Jim Erickson (1993).
+ Hard Drive: Bill Gates and the Making of the Microsoft Empire.
+ Harper Business.
+ ISBN 0-88730-629-2.
+
+Wallace, James (1997).
+ Overdrive: Bill Gates and the Race to Control Cyberspace.
+ John Wiley & Sons.
+ ISBN 0-471-18041-6.
+
+Edstrom, Jennifer; and Marlin Eller (1998).
+ Barbarians Led by Bill Gates: Microsoft from the Inside.
+ Henry Holt & Company.
+ ISBN 0-8050-5755-2.
+
+Lowe, Janet (1998).
+ Bill Gates Speaks: Insight from the World's Greatest Entrepreneur.
+ John Wiley & Sons.
+ ISBN 0-471-29353-9.
+
+Lesinski, Jeanne M.
+ (2000).
+ Bill Gates.
+ Lerner Publications Company.
+ ISBN 0-8225-9689-X.
+
+Rivlin, Gary (2000).
+ The Plot to Get Bill Gates.
+ Three Rivers Press.
+ ISBN 0-8129-9073-0.
+
+Bank, David (2001).
+ Breaking Windows: How Bill Gates Fumbled the Future of Microsoft.
+ Free Press.
+ ISBN 0-7432-0315-1.
+
+
+
+ Rujukan 
+
+
+ Pautan luar 
+
+
+= Profil dan biografi =
+(Melayu) Ensiklokamus Teknologi Maklumat: Bill Gates secara ringkas Diarkibkan 2008-10-27 di Wayback Machine
+Laman web Bill Gates
+Profail oleh Time Magazine
+Bill Gates sebelum Microsoft
+Bill & Melinda Gates Foundation
+BBC: Profail oleh BBC News
+Entrepreneurs and American Economic Growth: William H.
+ Gates
+Forbes: Orang terkaya di dunia
+Laman nilai harta Bill Gates
+Index kekayaaan Bill Gates
+Bill Gates Charity Races to Spend Buffett's Billions
+Pengasas Microsoft akan diberikan anugerah kesatriaan
+
+
+= Gambar =
+Gambar rumah Bill Gates
+Galeri gambar Bill Gates
+
+
+= Temu ramah =
+Temuramah dengan Bill Moyers
+Temuramah dengan Peter Jennings dari ABC
+Temuramah dengan BBC
+Temuramah dengan majalah Playboy
+Temuramah dengan Charlie Rose Diarkibkan 2011-11-20 di Wayback Machine
+Temuramah dengan Jon Stewart untuk "The Daily Show"
