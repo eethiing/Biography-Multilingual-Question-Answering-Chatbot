@@ -1,0 +1,36 @@
+<section class="msger">
+  <header class="msger-header">
+    <link rel="stylesheet" href="style.css">
+    <div class="msger-header-title">
+      <i class="fas fa-comment-alt"></i> Biography Chatbot
+      <button class="setting"><span>🔧</span></button>
+    </div>
+    <div class="msger-header-options">
+      <span><i class="fas fa-cog"></i></span>
+    </div>
+  </header>
+
+  <main class="msger-chat">
+  </main>
+
+  <form class="msger-inputarea">
+    <input type="text" class="msger-input" placeholder="Enter your message...">
+    <button type="submit" class="msger-send-btn">Send</button>
+  </form>
+
+  <div class="overlay">
+    <div class="popup">
+      <h2>Chatbot API configuration</h2>
+      <div class="content">
+        Please follow the user manual to enter the public url of ngrok.
+        <form class="msger-inputarea" style="margin-top: 10px;" onsubmit="return false">
+          <input type="text" class="msger-input" placeholder="Enter the ngrok public url...">
+          <button type="submit" class="msger-send-btn">Apply</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<script src="script.js" type="text/javascript"></script>
