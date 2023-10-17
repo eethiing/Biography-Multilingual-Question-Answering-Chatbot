@@ -1,0 +1,85 @@
+Sir Timothy John "Tim" Berners-Lee, OM, KBE, FRS, FREng, FRSA (dilahirkan 8 Jun 1955), juga dikenali sebagai "TimBL", ialah seorang ahli sains komputer British, profesor  Massachusetts Institute of Technology dan pencipta World Wide Web (WWW).
+ Beliau membuat cadangan bagi satu sistem pengurusan maklumat dalam bulan Mac 1989, dan pada 25 Disember 1990, dengan pertolongan Robert Cailliau dan seorang siswa muda di CERN, beliau melaksanakan buat pertama kalinya percubaan yang berjaya menghubungkan sebuah klien HTTP ( Hypertext Transfer Protocol ) dan pelayan Web menerusi Internet.
+
+Berners-Lee ialah pengarah Konsortium Jaringan Sejagat (W3C), yang merinyu perkembangan Web.
+ Beliau juga pengasas Yayasan Jaringan Sejagat serta penyelidik kanan dan pemegang Kerusi Pengasas di Makmal Sains Komputer dan Kecerdasan Buatan MIT (CSAIL).
+Beliau diberi penghormatan sebagai "Pengasas Web Sejagat" pada acara perasmian Sukan Olimpik di mana beliau muncul sendiri, bekerja dengan komputer NeXT di Stadium Olimpik London.
+ Beliau membuat pesanan  tweet berbunyi "ini untuk semua orang", yang dipamerkan secara serta-merta dalam lampu LCD pada kerusi 80,000 penonton.
+
+
+
+ Biografi ringkas 
+Berners-Lee dilahirkan di barat laut London pada 8 Jun 1955, seorang daripada empat anak Conway Berners-Lee dan Mary Lee Woods.
+ Kedua-dua orang tuanya bekerja untuk menghasilkan komputer komersial pertama, komputer  Ferranti Mark 1.
+ Beliau menjadi siswazah di Queen's College, Universiti Oxford dari tahun 1973 sehingga 1976, dari mana beliau menerima ijazah kelas pertama fizik.
+
+
+
+ Kerjaya 
+
+Berners-Lee bertugas sebagai kontraktor bebas di CERN dari Jun ke Disember 1980.
+ Semasa beliau di sana, beliau mencadangkan satu projek berlandaskan konsep hiperteks, bagi memudahkan perkongsian maklumat antara para penyelidik.
+ Bagi menunjuk cara penggunaannya, Berners-Lee membina prototaip begelar ENQUIRE.
+TSelepas meninggalkan CERN lewat tahun 1980, beliau bekerja di Image Computer Systems Ltd John Poole, di England.
+ Projek tersebut merupakan panggilan prosedur jauh masa sebenar, yang memberinya pengalaman dalam bidang rangkaian komputer.
+ Beliau pulang ke CERN sebagai Fellow dalam tahun 1984.
+
+
+Pada tahun 1989, CERN merupakan nod Internet terbesar di Eropah, dan Berners-Lee nampak peluang menyambungkan idea hiperteks dengan Internet: Saya hanya perlu mengambil idea hiperteks dan menyambungkannya kepada idea-idea Protokol Kawalan Penghantaran (TCP) dan Sistem Nama Domain (DNS) dan — ta-da!— Web Sejagat .
+.
+.
+ Mencipta web sebenarnya lahir daripada keperluan mendesak, oleh sebab suasana tanpanya amat merumitkan semasa saya bekerja di CERN kemudiannya.
+ Kebanyakan teknologi yang terlibat dengan web, seperti hiperteks, Internet, objek teks fon-pelbagai, kesemuanya sudah direka.
+ Saya hanya perlu menyambungkan mereka.
+ Ia satu langkah membuat sesuatu lebih am, pergi ke tahap mujarad yang lebih tinggi, memikirkan kesemua sistem pengdokumen yang ada di luar sana sebagi mungkin menjadi sebahagain daripada sistem pengdokumen khayalan.
+ 
+Berners-Lee menulis cadangan ulungnya pada bulan Mac 1989, dan dalam tahun 1990, dengan bantuan Robert Cailliau (beliau berkongsi hadiah Association for Computing Machinery (ACM) dengan Cailliau pada tahun 1995), menghasilkan semakan yang diterima ketuanya, Mike Sendall.
+ Beliau menggunakan idea-idea yang serupa sistem ENQUIRE bagi mereka Jaringan Web Sejagat; beliau terus mencipta pelayar Web pertama bagi tujuan ini.
+ Pelayar ini juga berfungsi sebagai alat penyunting Web, dan dikendalikan atas platform NeXTSTEP dan pelayan Web pertama, CERN HTTPd (singkatan bagi Hypertext Transfer Protocol Daemon).
+
+Tapak web pertama yang dibina ialah di CERN dalam lingkungan wilayah Perancis,, dan diletakkan dalam jaringan pada 6 Ogos 1991:
+
+Ia memberi penjelasan tentang Web Sejagat, dan bagaimana seseorang itu dapat menggunakan pelayan Web dan bagaimana memasang dan menghidupkan pelayan Web.
+Pada tahun 1994, Berners-Lee mengasaskan W3C di MIT.
+ Konsortium ini memiliki ahli terdiri daripada pelbagai syarikat yang bersetuju merumus piawai dan saranan bagi meningkatkan mutu Web.
+
+Berners-Lee meyumbangkan idea-ideanya dengan percuma dan bebas, tanpa apa-apa keperluan paten atau royalti.
+ W3C memutuskan bahawa piawainya harus berlandaskan teknologi bebas royalti, agar idea teresebut dengan mudah dapat diubah suai oleh sesiapa sahaja.
+
+
+
+ Penerbitan 
+Berners-Lee, Tim (1999).
+ Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web by its inventor.
+ Britain: Orion Business.
+ ISBN 0-7528-2090-7.
+ 
+
+
+ Lihat juga 
+Menenun Jaringan Sejagat
+
+
+ Rujukan 
+
+
+= Nota kaki =
+
+
+ Bacaan lanjut 
+Tim Berners-Lee and the Development of the World Wide Web (Unlocking the Secrets of Science), Ann Gaines (Mitchell Lane Publishers, 2001) ISBN 1-58415-096-3
+Tim Berners-Lee: Inventor of the World Wide Web (Ferguson's Career Biographies), Melissa Stewart (Ferguson Publishing Company, 2001) ISBN 0-89434-367-X children's biography
+Weaving the Web Berners-Lee, Tim, with Fischetti, Mark (Harper Collins Publishers,1999) ISBN 0-06-251586-1(cloth) ISBN 0-06-251587-X(paper)
+How the Web was Born: The Story of the World Wide Web Robert Cailliau, James Gillies, R.
+ Cailliau (Oxford University Press, 2000) ISBN 0-19-286207-3
+Tim Berners-Lee Gives the Web a New Definition Diarkibkan 2011-04-12 di Wayback Machine
+BBC2 Newsnight – Transcript of video interview of Berners-Lee on the read/write Web
+Technology Review interview
+
+
+ Pautan luar 
+Hompej Tim Berners-Lee
+Blog beliau Diarkibkan 2005-12-24 di Wayback Machine
+Tim Berners-Lee di tapak Web W3C
+Halaman pertama World Wide WebTim Berners-Lee di Twitter
+timbl Diarkibkan 2012-08-10 di Wayback Machine
